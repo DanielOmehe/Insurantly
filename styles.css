@@ -957,7 +957,7 @@ img{
 
      .content-sub-heading{
           text-align: center;
-          padding: 15%;
+          padding: 5%;
      }
 
      #content-display{
@@ -988,6 +988,10 @@ img{
 
      #pricing-text-box{
           width: 80%;
+     }
+
+     #pricing-text{
+          padding: 5%;
      }
 
      #pricing-box-container{
