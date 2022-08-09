@@ -199,8 +199,8 @@ body{
 
 .row:nth-child(2) img:nth-child(1){
      position: absolute;
-     left: 78px;
-     top: 75px;
+     left: 33%;
+     top: 29%;
 }
 
 #testimonial{
@@ -748,14 +748,13 @@ img{
 
      #nav-bar{
           width: 100%;
-          padding: 20px 0;
+          padding: 40px 0;
           height: 400px;
           flex-direction: column;
           justify-content: space-around;
           background: #252B42;
           top: 0;
           left: 0;
-          display: flex;
      }
 
      #top-nav{
@@ -884,6 +883,13 @@ img{
      .row{
           width: 80%;
           padding: 30px;
+          position: relative;
+     }
+
+     .row:nth-child(2) img:nth-child(1){
+          position: absolute;
+          left: 40%;
+          top: 22%;
      }
 
      .heading h3{
@@ -892,12 +898,6 @@ img{
 
      .row-text p{
           font-size: 14px;
-     }
-
-     .row:nth-child(2) img:nth-child(1){
-          position: absolute;
-          left: 125px;
-          top: 46.5px;
      }
 
      #testimonal{
