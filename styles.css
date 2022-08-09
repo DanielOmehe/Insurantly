@@ -30,7 +30,7 @@ body{
 }
 
 #icons-div{
-     display: block;
+     display: none;
 }
 
 #brand-name h1{
@@ -199,7 +199,7 @@ body{
 
 .row:nth-child(2) img:nth-child(1){
      position: absolute;
-     left: 72px;
+     left: 78px;
      top: 75px;
 }
 
@@ -324,16 +324,19 @@ body{
      background-position: center;
      background-size: cover;
 }
+
 .content-box:nth-child(2){
      background: url(images/tree.jpg) no-repeat;
      background-position: center;
      background-size: cover;
 }
+
 .content-box:nth-child(3){
      background: url(images/stocks.jpg) no-repeat;
      background-position: center;
      background-size: cover;
 }
+
 .content-box:nth-child(4){
      background: url(images/data.jpg) no-repeat;
      background-position: center;
@@ -893,8 +896,8 @@ img{
 
      .row:nth-child(2) img:nth-child(1){
           position: absolute;
-          left: 115px;
-          top: 45.5px;
+          left: 125px;
+          top: 46.5px;
      }
 
      #testimonal{
